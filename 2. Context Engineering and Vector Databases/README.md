@@ -4,6 +4,18 @@ An AI-powered employee knowledge retrieval system built using Python, TF-IDF, Se
 
 The project explores lexical and semantic retrieval techniques over six Northstar Systems employee policy documents.
 
+### Repository Structure
+2. Context Engineering and Vector Databases/
+│
+├── Skill_Builder_Lab_Context_Engineering_and_Vector_Databases_Subhadeep_Dey_(DS2606).ipynb
+│
+├── data/
+│   └── Northstar_Employee_Knowledge_Base.zip
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 ### Key Features
 - Structured document ingestion and metadata preservation.
 - TF-IDF-based lexical retrieval.
